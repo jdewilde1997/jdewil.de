@@ -39,7 +39,7 @@
         "yargs-parser": "^20.2.9"
     },
     "devDependencies": {
-        "browser-sync": "2.27.1",
+        "browser-sync": "2.27.3",
         "del": "6.0.0",
         "gulp": "4.0.2",
         "gulp-autoprefixer": "8.0.0",
