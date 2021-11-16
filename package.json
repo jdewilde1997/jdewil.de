@@ -36,7 +36,7 @@
         "jquery": "3.6.0",
         "jquery.easing": "^1.4.1",
         "minimist": "^1.2.5",
-        "yargs-parser": "^20.2.9"
+        "yargs-parser": "^21.0.0"
     },
     "devDependencies": {
         "browser-sync": "2.27.7",
