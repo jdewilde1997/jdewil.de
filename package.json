@@ -36,7 +36,7 @@
         "engine.io": "^6.2.0",
         "glob-parent": "^6.0.2",
         "glob-stream": "^7.0.0",
-        "hosted-git-info": "^5.0.0",
+        "hosted-git-info": "^5.1.0",
         "jquery": "3.6.0",
         "jquery.easing": "^1.4.1",
         "minimist": "^1.2.6",
