@@ -33,7 +33,7 @@
         "axios": "^1.2.2",
         "bootstrap": "5.2.3",
         "chokidar": "^3.5.3",
-        "engine.io": "^6.2.1",
+        "engine.io": "^6.3.0",
         "glob-parent": "^6.0.2",
         "glob-stream": "^7.0.0",
         "hosted-git-info": "^6.1.1",
