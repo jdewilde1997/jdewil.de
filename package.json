@@ -40,7 +40,7 @@
         "is-glob": "^4.0.3",
         "jquery": "3.6.3",
         "jquery.easing": "^1.4.1",
-        "minimatch": "^7.0.0",
+        "minimatch": "^7.1.0",
         "minimist": "^1.2.8",
         "yargs-parser": "^21.1.1"
     },
