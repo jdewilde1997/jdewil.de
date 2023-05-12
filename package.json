@@ -38,7 +38,7 @@
         "glob-stream": "^7.0.0",
         "hosted-git-info": "^6.1.1",
         "is-glob": "^4.0.3",
-        "jquery": "3.6.3",
+        "jquery": "3.7.0",
         "jquery.easing": "^1.4.1",
         "minimatch": "^7.1.0",
         "minimist": "^1.2.8",
