@@ -35,7 +35,7 @@
         "chokidar": "^3.5.3",
         "engine.io": "^6.4.1",
         "glob-parent": "^6.0.2",
-        "glob-stream": "^7.0.0",
+        "glob-stream": "^8.0.0",
         "hosted-git-info": "^6.1.1",
         "is-glob": "^4.0.3",
         "jquery": "3.6.3",
